@@ -14,7 +14,7 @@ public class A {
 	@Test
 	public void bb()
 	{
-		assertEquals(1, 1);
+		assertEquals(1, 2);
 	}
 	
 	
