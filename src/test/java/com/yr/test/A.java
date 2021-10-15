@@ -8,7 +8,7 @@ public class A {
 	@Test
 	public void aa()
 	{
-		System.out.pritnln(1);
+		System.out.pritnln(2);
 		assertEquals(1, 1);
 	}
 	
