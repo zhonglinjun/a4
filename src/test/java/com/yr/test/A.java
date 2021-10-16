@@ -11,7 +11,7 @@ public class A {
 		System.out.println(1);
 		System.out.println(155);
 		System.out.println(166);
-		System.out.println(177);
+		System.out.println(188);
 		assertEquals(1, 1);
 	}
 	
