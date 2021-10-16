@@ -12,6 +12,8 @@ public class A {
 		System.out.pritnln(2);
 		System.out.pritnln(3);
 		System.out.pritnln(4);
+		System.out.pritnln(5);
+		System.out.pritnln(6);
 		assertEquals(1, 1);
 	}
 	
