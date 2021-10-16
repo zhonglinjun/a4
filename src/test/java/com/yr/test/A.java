@@ -8,12 +8,8 @@ public class A {
 	@Test
 	public void aa()
 	{
-		System.out.pritnln(1);
-		System.out.pritnln(2);
-		System.out.pritnln(3);
-		System.out.pritnln(4);
-		System.out.pritnln(5);
-		System.out.pritnln(6);
+		System.out.println(1);
+		System.out.println(10);
 		assertEquals(1, 1);
 	}
 	
