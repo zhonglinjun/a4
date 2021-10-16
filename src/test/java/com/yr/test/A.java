@@ -9,10 +9,7 @@ public class A {
 	public void aa()
 	{
 		System.out.println(1);
-<<<<<<< HEAD
-		System.out.println(3);
-=======
->>>>>>> branch 'master' of https://github.com/zhonglinjun/a4.git
+		System.out.println(33);
 		System.out.println(2);
 		System.out.println(155);
 		System.out.println(166);
